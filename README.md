@@ -1,4 +1,4 @@
 # Amancoding-demo
 This is my first repository
 <br>
-Author- Aman jaiswal
+Author- Aman jaiswal(new student)
